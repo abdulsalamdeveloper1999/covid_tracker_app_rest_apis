@@ -1,0 +1,12 @@
+com.example.covid_tracker.app-core-1.6.0-0 C:\Users\TheZaynPro\.gradle\caches\transforms-3\7fc722546b132950b2d72da0aed312ac\transformed\core-1.6.0\res
+com.example.covid_tracker.app-jetified-window-1.0.0-beta04-1 C:\Users\TheZaynPro\.gradle\caches\transforms-3\b5f887fe5dda9f66072ea47a9eaf666e\transformed\jetified-window-1.0.0-beta04\res
+com.example.covid_tracker.app-jetified-window-java-1.0.0-beta04-2 C:\Users\TheZaynPro\.gradle\caches\transforms-3\b9dcdb3fe6081f9a2fa5e4cd60f7a820\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.covid_tracker.app-jetified-annotation-experimental-1.1.0-3 C:\Users\TheZaynPro\.gradle\caches\transforms-3\e1d017b24f8d2dc54613a56a59a0e813\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.covid_tracker.app-debug-4 D:\FlutterApps\covid_19_app_rest_apis\android\app\src\debug\res
+com.example.covid_tracker.app-main-5 D:\FlutterApps\covid_19_app_rest_apis\android\app\src\main\res
+com.example.covid_tracker.app-pngs-6 D:\FlutterApps\covid_19_app_rest_apis\build\app\generated\res\pngs\debug
+com.example.covid_tracker.app-resValues-7 D:\FlutterApps\covid_19_app_rest_apis\build\app\generated\res\resValues\debug
+com.example.covid_tracker.app-rs-8 D:\FlutterApps\covid_19_app_rest_apis\build\app\generated\res\rs\debug
+com.example.covid_tracker.app-mergeDebugResources-9 D:\FlutterApps\covid_19_app_rest_apis\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.covid_tracker.app-mergeDebugResources-10 D:\FlutterApps\covid_19_app_rest_apis\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.covid_tracker.app-merged_res-11 D:\FlutterApps\covid_19_app_rest_apis\build\app\intermediates\merged_res\debug
